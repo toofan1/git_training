@@ -4,3 +4,5 @@ John new change.
 Alice change for demo of rebase.
 
 revision for working through example of fetching changes.
+
+... a new revision performed on github remote.
