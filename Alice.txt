@@ -7,6 +7,13 @@ revision for working through example of fetching changes.
 
 ... a new revision performed on github remote.
 
+
 another revision on master to test a conflict.
 
+
 ... create conflict on the remote
+
+a local change to this file.
+
+Keep both remote and local changes and continue.
+
